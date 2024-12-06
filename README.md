@@ -5,7 +5,7 @@
 > [!NOTE]
 > As consuming shrek content is serveral orders of magnitude more important than browsing the web, or doing anything else for that matter, the theme has been optimized for the best viewing experience.
 
-![demo][./demo.gif]
+![demo](./demo.gif)
 
 ## Setup Project
 
